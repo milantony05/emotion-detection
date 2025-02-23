@@ -25,7 +25,7 @@ def emotion_analyzer():
     dominant_emotion = emotion_result['dominant_emotion']
 
     if dominant_emotion is None:
-        return "Invalid text! Please try again"
+        return "Invalid text! Please try again!"
 
     response_str = f"""For the given statement, the system response is
     'anger': {anger}, 'disgust': {disgust}, 'fear': {fear}, 'joy': {joy}, 'sadness': {sadness}.
