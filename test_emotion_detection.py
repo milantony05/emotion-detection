@@ -1,7 +1,6 @@
 from EmotionDetection.emotion_detection import emotion_detector
 import unittest
 
-
 class TestEmotionAnalyzer(unittest.TestCase):
     def test_emotion_analyzer(self):
         result_1 = emotion_detector('I am glad this happened')
