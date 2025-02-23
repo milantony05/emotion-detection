@@ -18,19 +18,21 @@ Emotion Detection is a Flask-based web application integrated with embeddable Wa
    ```
 3. **Install dependencies**:
    ```bash
-   pip install flask, requests, pylint
+   pip install flask requests pylint
    ```
 4. **Run the application**:
    ```bash
-   python server.py
+   python3.11 server.py
    ```
 5. **Accessing the application**:
-   Open your web browser and go to `http://127.0.0.1:5000` or `http://localhost:5000`.
+   Run the application on `http://localhost:5000`
 
 ## Technologies Used
 
 - Python
 - Flask
+- Requests
+- Pylint
 - HTML
 - JavaScript
 - Watson NLP Library
