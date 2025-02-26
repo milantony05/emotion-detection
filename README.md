@@ -22,7 +22,7 @@ Emotion Detection is a Flask-based web application integrated with embeddable Wa
    ```
 4. **Run the application**:
    ```bash
-   python3.11 server.py
+   python server.py
    ```
    Run the application on localhost:5000
 
