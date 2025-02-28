@@ -6,7 +6,7 @@ Emotion Detection is a Flask-based web application integrated with embeddable Wa
 
 ## Installation
 
-**Note:** This application uses the Watson NLP library. Embeddable Watson AI libraries have been pre-installed on the [Skills Network Labs Cloud IDE](https://skills.network/lab-tools/cloud-ide) framework.
+**Note:** This application uses the Watson NLP library. Embeddable Watson AI libraries have been pre-installed on the [IBM Developer Skills Network](https://labs.cognitiveclass.ai/) framework.
 
 1. **Clone the repository**:
    ```bash
